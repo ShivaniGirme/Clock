@@ -1,0 +1,73 @@
+*{
+	margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.container{
+	display: flex;
+	background-image: url("https://img.freepik.com/premium-photo/sand-running-through-bulbs-hourglass-measuring-passing-time-countdown-deadline-dark-table-background-with-copy-space_494741-5004.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 715px;
+	width: 100%;
+}
+.main{
+	background-color: white;
+	height: 220px;
+	width: 700px;
+	border-radius: 20px;
+	margin-top: 220px;
+	margin-left: 90px;
+	box-shadow: 0px 0px 20px black;
+	 overflow: hidden;
+	 padding: 20px;
+}
+.qt{
+	font-size: 25px;
+	font-family: cursive;
+	font-weight: bolder;
+	text-align: center;
+	color: orange;
+}
+.sub1{
+	display: flex;
+	
+}
+.time1{
+	text-align: center;
+	height: 80px;
+	width: 90px;
+	background-color: grey;
+	font-size: 50px;
+	font-family: cursive;
+	border-radius: 12px;
+}
+.col{
+	font-family: cursive;
+	font-size: 40px;
+	font-weight: bolder;
+	height: 60px;
+	width: 20px;
+	text-align: center;
+	margin-top: 12px;
+}
+.sub2{
+	display: flex;
+}
+.ele{
+	margin-top: 10px;
+	text-align: center;
+	font-weight: bolder;
+	font-size: 20px	;
+	padding-left: 20px;
+}
+.td{
+	display: flex;
+}
+.dat{
+	font-size: 20px;
+	font-family: cursive;
+	margin-left: 30px;
+	margin-top: 12px;
+	font-weight: bolder;
+}
